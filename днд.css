@@ -1,0 +1,53 @@
+<style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin-left: 15%;
+      margin-right: 15%;
+      max-width: 50%;
+    }
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 24px;
+      font-weight: normal;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.4;
+    }
+    .caption {
+      font-size: 12px;
+      text-align: left;
+    }
+    .image-container {
+      margin-left: 1cm;
+    }
+    td {
+      vertical-align: top;
+    }
+    .quote {
+      font-size: 24px;
+      text-align: center;
+    }
+    .quote-author {
+      font-size: 12px;
+      text-align: center;
+    }
+     a {
+    color: blue;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+    .footer {
+      background-color: white;
+      color: black;
+      padding: 20px;
+      text-align: left;
+    }
+     a {
+      color: dodgerblue;
+      text-decoration: none;
+  </style>
